@@ -1,3 +1,4 @@
+# Lintiņš Oskars PD1
 # Šeit ir dota funkcija, kura atrod vislielāko pieagumu (starpību) skaitļu virknē.
 # Starpība ir definēta pēc uzdevuma prasības : skaitlis n2 nāk pēc n1.
 # Izmantojot uzdevuma padomus, izvēlējos lineāro atrisinājumu, kura izmanto O(n) (tā ir laba izvēle pēc grafika, attēlota bigocheatsheet.com)
