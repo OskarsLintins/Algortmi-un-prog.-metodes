@@ -1,6 +1,6 @@
 # Lintiņš Oskars PD1
 # Šeit ir dota funkcija, kura atrod vislielāko pieagumu (starpību) skaitļu virknē.
-# Starpība ir definēta pēc uzdevuma prasības : skaitlis n2 nāk pēc n1.
+# Starpība ir definēta pēc uzdevuma prasības : n2-n1, kur skaitlis n2 nāk pēc n1.
 # Izmantojot uzdevuma padomus, izvēlējos lineāro atrisinājumu, kura izmanto O(n) (tā ir laba izvēle pēc grafika, attēlota bigocheatsheet.com)
 def max_difference(sequence): # funkcijas definīcija, kura izmanto skaitļu virkni, kā ieejas datus
     min_value = sequence[0] # sākotnējais minimālais skaitlis
